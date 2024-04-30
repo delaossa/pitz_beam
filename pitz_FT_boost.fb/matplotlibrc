@@ -1,0 +1,26 @@
+font.size : 16
+font.family : Helvetica Neue
+axes.unicode_minus : False
+font.style : normal
+font.weight : 300
+lines.linewidth : 1.4
+lines.solid_capstyle : round
+lines.dash_capstyle : round
+axes.labelweight : 300
+axes.linewidth : 1.6
+axes.prop_cycle : cycler('color', ['009FDF', 'F18F1F', '004B6E', 'FAC800', 'B92D41', '00A54B', '006987', 'D2006E', '917DB9', 'C3B900'])
+xtick.major.width : 1.6
+ytick.major.width : 1.6
+xtick.minor.width : 1.6
+ytick.minor.width : 1.6
+xtick.top : False
+ytick.right : False
+xtick.direction : out
+ytick.direction : out
+text.usetex : False
+mathtext.fontset : custom
+mathtext.rm : Helvetica Neue
+mathtext.sf : Helvetica Neue
+mathtext.it : Helvetica Neue:italic
+mathtext.cal : Helvetica Neue:italic
+mathtext.bf : Helvetica Neue
